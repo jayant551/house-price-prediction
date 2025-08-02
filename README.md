@@ -1,6 +1,6 @@
 House Price Prediction
 This model can predict the price of house based on your prefrences 
-![Demo Screenshot or GIF](images/demo.png)
+
 
 
  Features
